@@ -1,0 +1,86 @@
+---
+title: "Codebook"
+output: html_document
+author: Calli Beck (calli_beck@clarke.edu)
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Total Income 2021
+
+## Description
+
+Selected Characteristics of People 15 Years Old and Over by Total Money Income in 2021, Work Experience in 2021, Race, Hispanic Origin, and Sex
+
+## Format
+
+#### Characteristics:
+
+15 years and older
+
+Under 65 Years
+
+15 to 24 years
+
+25 to 34 years
+
+25 to 29 years
+
+30 to 34 years
+
+35 to 44 years
+
+35 to 39 years
+
+40 to 44 years
+
+45 to 54 years
+
+45 to 49 years
+
+50 to 54 years
+
+55 to 64 years
+
+55 to 59 years
+
+60 to 64 years
+
+65 years and over
+
+65 to 74 years
+
+65 to 69 years
+
+70 to 74 years
+
+75 years and over
+
+Mean Age
+
+Rows 3 through 22 describe different age ranges recording the number of people based on their income level
+
+Row 23 describes the mean age and how many are at each income level
+
+## Details
+
+This table shows how many people exist in different income levels based on different age ranges.
+
+## Purpose
+
+The purpose of this table is to highlight the amount of people in poverty and what age range is affected the most.
+
+## Overview
+
+This tables shows that while we would expect the amount of people income to be higher in age, there are more younger people receiving higher income than the other way around. It shows how poverty not only affects young people, but it also affects older people as well. The middle ground (40 to 54 years) actually have the most people in higher income levels.
+
+## Source
+
+United States Census Bureau
+
+```{r}
+
+```
